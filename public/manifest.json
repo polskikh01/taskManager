@@ -1,0 +1,6 @@
+{
+  "short_name": "Task Manager",
+  "name": "Task Manager aka Trello",
+  "start_url": ".",
+  "display": "standalone"
+}
